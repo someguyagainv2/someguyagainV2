@@ -1,5 +1,5 @@
 <h1>Hello I'm <span class="hoverEff">Someguyagain</span> </h1>
-```[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/someguyagainV2/github-readme-stats)```
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someguyagainV2&repo=github-readme-stats&theme=buefy" />
 
 <h2> About Me </h2>
 <p>Looking into concepts such as software to web development and the security behind how these sites run.</p>
