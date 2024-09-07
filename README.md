@@ -1,5 +1,5 @@
 <h1>Hello I'm <span class="hoverEff">Someguyagain</span> </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=someguyagainV2&theme=buefy&hide=prs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=someguyagainV2&theme=dark&hide=prs" />
 
 <h2> About Me </h2>
 <p>Looking into concepts such as software to web development and the security behind how these sites run.</p>
