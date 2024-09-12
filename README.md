@@ -18,7 +18,6 @@
 
 <ul>
   <li>Python</li>
-  <li>Javascript</li>
   <li>SQL</li>
   <li>C#</li>
   <li>HTML</li>
@@ -33,6 +32,7 @@
   <li>C++</li>
   <li>Assembly</li>
   <li>C#</li>
+  <li>Javascript</li>
 </ul>
 
 <h2> My Goal? </h2>
