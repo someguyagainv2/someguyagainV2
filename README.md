@@ -47,4 +47,3 @@
 <p>Someblogagain.uk</p>
 <p>capital.py</p>
 <p>CyberBroker.com upcoming</p>
-*useless github commit for the commits*😎
