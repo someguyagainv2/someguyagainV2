@@ -21,7 +21,6 @@
   <li>SQL</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>C++</li>
   <li>Lua</li>
 </ul>
 
