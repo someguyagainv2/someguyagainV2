@@ -42,8 +42,26 @@
 <hr>
 
 <h2> My Projects? </h2>
-<p> My Personalised Notes </p>
-<p>Django Frontend Database Manager</p>
-<p>Someblogagain.uk</p>
-<p>capital.py</p>
-<p>CyberBroker.com upcoming</p>
+<table>
+  <td>
+    <th>Current Projects</th>
+    <th>Finished Projects</th>
+  </td>
+  <td>
+    <tr>LifeCLI Backend</tr>
+    <tr>Someblogagain.co.uk</tr>
+  </td>
+  <td>
+    <tr>Cyberbroker.com</tr>
+    <tr>Capital.py</tr>
+  </td>
+  <td>
+    <tr></tr>
+    <tr>My personalised notes</tr>
+  </td>
+  <td>
+    <tr></tr>
+    <tr>Django Frontend Database Manager</tr>
+  </td>
+</table>
+
