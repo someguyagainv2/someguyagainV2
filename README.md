@@ -19,7 +19,6 @@
 <ul>
   <li>Python</li>
   <li>SQL</li>
-  <li>C#</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>C++</li>
@@ -29,9 +28,9 @@
 <h2> Programming Languages I'm Learning </h2>
 
 <ul>
-  <li>C++</li>
+  <li>C++ ( relearning to a higher level )</li>
   <li>Assembly</li>
-  <li>C#</li>
+  <li>C# ( relearning to a higher level )</li>
   <li>Javascript</li>
 </ul>
 
