@@ -43,25 +43,25 @@
 
 <h2> My Projects? </h2>
 <table>
-  <td>
+  <tr>
     <th>Current Projects</th>
     <th>Finished Projects</th>
+  </tr>
+  <tr>
+    <td>LifeCLI Backend</td>
+    <td>Someblogagain.co.uk</td>
+  </tr>
+  <tr>
+    <td>Cyberbroker.com</td>
+    <td>Capital.py</td>
   </td>
-  <td>
-    <tr>LifeCLI Backend</tr>
-    <tr>Someblogagain.co.uk</tr>
+  <tr>
+    <td></td>
+    <td>My personalised notes</td>
   </td>
-  <td>
-    <tr>Cyberbroker.com</tr>
-    <tr>Capital.py</tr>
-  </td>
-  <td>
-    <tr></tr>
-    <tr>My personalised notes</tr>
-  </td>
-  <td>
-    <tr></tr>
-    <tr>Django Frontend Database Manager</tr>
-  </td>
+  <tr>
+    <td></td>
+    <td>Django Frontend Database Manager</td>
+  </tr>
 </table>
 
